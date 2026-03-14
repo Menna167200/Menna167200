@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>I’m Mennatallah Mahmoud, a budding Data Engineer passionate about Spark, ETL, and data modeling.</strong>
+  <strong>Hey there 👋🏽! I’m Mennatallah Mahmoud, a budding Data Engineer passionate about Spark, ETL, and data modeling.</strong>
 </p>
 
 <p align="center">
