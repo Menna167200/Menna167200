@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  Databricks • Seaborn • ETL Pipelines • Data Modeling • Medallion Architecture • Star Schema • Exploratory Data Analysis
+  Databricks • DBT • Snowflake • Seaborn • ETL Pipelines • Data Modeling • Medallion Architecture • Star Schema • Exploratory Data Analysis 
 </p>
